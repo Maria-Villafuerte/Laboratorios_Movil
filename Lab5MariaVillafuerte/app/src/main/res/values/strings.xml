@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lab5MariaVillafuerte</string>
+    <string name="Pato">Pato</string>
+    <string name="Nombre_usuario">Nombre de usuario</string>
+    <string name="Edit_Profile">Edit Profile</string>
+    <string name="Reset_Password">Reset Password</string>
+    <string name="Notification">Notification</string>
+    <string name="Favorite">Favorite</string>
+
+</resources>
